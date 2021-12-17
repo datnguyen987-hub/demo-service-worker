@@ -1,0 +1,20 @@
+{
+  "name": "demo",
+  "short_name": "demo",
+  "icons": [
+    {
+      "src": "./static/icons/icon-192x192.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "./static/icons/icon-512x512.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ee44aa"
+}
